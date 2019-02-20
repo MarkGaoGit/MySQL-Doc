@@ -1,16 +1,16 @@
-# Mysql Doc
+# Mysql & Postgres Doc
 
-Used to generate database Dictionaries . Applicable to MySQL
+Used to generate database Dictionaries . Applicable to MySQL and Postgres
 
 ## Directory app
 
-index.php Used to generate MySQL Dictionaries Code!
+index.php Used to generate MySQL and Postgres Dictionaries Code!
 
 ini.config.php  Config File
 
 - defined(API_FILE_PATH) Doc File Path
 - config Database Config
-- databases generate MySQL database
+- databases generate MySQL and Postgres database
 
 ## Directory resources
 
